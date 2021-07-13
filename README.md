@@ -16,5 +16,13 @@ In this repository we will publish our guidelines and concepts written for the F
 > 
 > DeBot Guideline
 
+### Support
+
+If you want to support us financially, we will leave donation address here: 
+
+0:e97b70821547279d6d8e671c417adeaca8fc3cded759e04e06a48cf7c97eae7f
+
+Thanks for the support!
+
 ### License
 **This repository is distributed under the UnLicense (more details in the LICENCE file)**
